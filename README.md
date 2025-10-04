@@ -10,6 +10,9 @@ The notebook follows these main steps:
 4. **Train the Model** – Apply machine learning algorithms to classify fraudulent transactions.
 5. **Test the Model** – Evaluate performance with metrics like accuracy, precision, recall, and F1-score.
 
+## Dataset 
+https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud
+
 ## ⚙️ Dependencies
 Make sure you have the following Python libraries installed
 
